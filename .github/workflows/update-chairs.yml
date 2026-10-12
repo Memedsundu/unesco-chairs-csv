@@ -1,0 +1,36 @@
+name: Update UNESCO Chairs
+
+on:
+  schedule:
+    # 06:00 UTC every day (09:00 in Istanbul)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-unesco-chairs
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Download the current Chair register
+        run: python3 scripts/update_unesco_chairs.py
+
+      - name: Commit the CSV when the register changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add unesco_chairs.csv
+          if git diff --cached --quiet; then
+            echo "No changes in the Chair register."
+            exit 0
+          fi
+          git commit -m "Update UNESCO Chairs list from the DataHub"
+          git push

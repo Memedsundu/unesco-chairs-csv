@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+unesco_chairs.csv.tmp
