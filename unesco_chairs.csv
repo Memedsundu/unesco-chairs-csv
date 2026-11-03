@@ -34,7 +34,6 @@ c_2004ES0656,Chaire UNESCO de Développement durable et éducation environnement
 c_2001FR0585,Chaire UNESCO de formation de professionnel/-les du développement durable
 c_1999ES0482,Chaire UNESCO de gestion et politique universitaires
 c_1993CU0076,Chaire UNESCO de gestion universitaire
-c_2019FR1362,"Chaire UNESCO de la complexité: identité, éthique et territoire"
 c_1989ES0218,Chaire UNESCO de méthodes numériques en ingénierie
 c_2006ES0804,Chaire UNESCO de Patrimoine Linguistique Mondial
 c_1997TN0259,Chaire UNESCO de philosophie
@@ -93,7 +92,6 @@ c_2020FR1423,Chaire UNESCO en prospective et intelligence stratégique internati
 c_2017CA1248,Chaire UNESCO en prévention de la radicalisation et de l’extrémisme violents
 c_2017FR1219,Chaire UNESCO en Ressources Educatives Libres et Intelligence Artificielle
 c_1994ES0320,Chaire UNESCO en ressources humaines
-c_2010FR0918,Chaire UNESCO en Santé sexuelle et droits humains
 c_2015FR1105,Chaire UNESCO en savoir-devenir à l’ère du développement numérique durable : articuler usages et apprentissages pour maîtriser les cultures de l’information
 c_2026BR3608,"Chaire UNESCO en savoirs patrimoniaux, biodiversité et citoyenneté"
 c_2020CG1391,Chaire UNESCO en science de l’Ingénieur
@@ -456,7 +454,7 @@ c_1998ES0307,"UNESCO Chair in Research, Planning, and Development in Global Heal
 c_2022TH1568,UNESCO Chair in Resource Governance and Futures Literacy
 c_2008BR0813,UNESCO Chair in Right to Education
 c_2017ZA1244,UNESCO Chair in Science and Education for Sustainable Food Systems in Africa
-c_UNESCO_Chair_in_Science_Diplomacy_and_Neurosciences_for_Brain_Health_and_Sustainable_Development,UNESCO Chair in Science Diplomacy and Neurosciences for Brain Health and Sustainable Development
+c_2026UY3667,UNESCO Chair in Science Diplomacy and Neurosciences for Brain Health and Sustainable Development
 c_1999ES0492,UNESCO Chair in Science education for Latin America and the Caribbean
 c_2011BY0919,UNESCO Chair in Science Education with Emphasis on Natural Sciences
 c_2016TZ1179,"UNESCO Chair in Science, Technology and Innovation (STI) and Leadership"
@@ -559,6 +557,7 @@ c_2020SG1396,UNESCO Chair on Architectural Heritage Conservation and Management 
 c_2019GB1318,UNESCO Chair on Artificial Intelligence
 c_2024OM2685,UNESCO Chair on Artificial Intelligence
 c_2022NL1546,UNESCO Chair on Artificial Intelligence and Data Science for Society
+c_2022PS1555,UNESCO Chair on Artificial Intelligence and Data Science for Sustainable Development
 c_2022PT1577,UNESCO Chair on Artificial Intelligence and Extended Reality
 c_2026ZA3704,UNESCO Chair on Artificial Intelligence for Community Resilience
 c_2023CN1643,UNESCO Chair on Artificial Intelligence in Education
@@ -576,6 +575,7 @@ c_2020CA1409,UNESCO Chair on Biocultural Diversity and Education
 c_2018CA1279,"UNESCO Chair on Biocultural Diversity, Sustainability, Reconciliation, and Renewal"
 c_2023CU1669,UNESCO Chair on Biodiversity Preservation through Sustainable Development
 c_2013PT1024,UNESCO Chair on Biodiversity Safeguard for Sustainable Development
+c_2026BR3624,"UNESCO Chair on Biodiversity, Connectivity, World Heritage and Nature-Culture Linkages"
 c_2016AT1120,UNESCO Chair on Bioethics
 c_2016RU1154,UNESCO Chair on Bioethics
 c_2017SD1210,UNESCO Chair on Bioethics
@@ -651,7 +651,6 @@ c_2014IN1077,"UNESCO Chair on Culture, Habitat and Sustainable Development"
 c_2015IR1107,UNESCO Chair on Cyberspace and Culture: Dual-Spacization of the World
 c_2020NZ1420,UNESCO Chair on Dance and Social Inclusion
 c_2024UG2829,UNESCO Chair on Dance for Global Citizenship Education
-c_2022PS1555,UNESCO Chair on Data Science for Sustainable Development
 c_2016AU1197,UNESCO Chair on Data Science in Higher Education Teaching and Learning
 c_2023NL1680,UNESCO Chair on Decentralized Information Society Engineering
 c_2022CN1543,UNESCO Chair on Deep-time Digital Earth and Mineral Resources
@@ -776,6 +775,7 @@ c_2022CN1578,UNESCO Chair on Global Health and Education
 c_2015US1119,UNESCO Chair on Global Learning and Global Citizenship Education
 c_2023PT1682,UNESCO Chair on Global Studies
 c_2018DE1273,UNESCO Chair on Global Understanding for Sustainability
+c_2026AE3546,"UNESCO Chair on Global Water Resilience, Innovation and Sustainable Solutions"
 c_2022CY1541,UNESCO Chair on Governance and Social Responsibility in Sport
 c_2022GR1545,UNESCO Chair on Green Innovation and Circular Economy
 c_2026NG3613,"UNESCO Chair on Groundwater Assessment, Climate Change and Environmental-Sociohydrological Systems"
@@ -795,7 +795,6 @@ c_2024CO2740,UNESCO Chair on Higher Education in Rural Areas
 c_2022DE1520,UNESCO Chair on Historic Urban Landscapes and Heritage Impact Assessments
 c_2022BR1509,"UNESCO Chair on History of Women in Philosophy, Sciences, and Culture"
 c_2023CY1670,UNESCO Chair on human development security and the fight against transnational crime and illicit trafficking in cultural property
-c_2022MY1591,UNESCO Chair on Human Genetics of Thalassaemia
 c_2015AZ1099,UNESCO Chair on Human Rights and Information Law
 c_2019NL1335,UNESCO Chair on Human Rights in Higher Education
 c_2019BR1373,UNESCO Chair on Human Rights “Dom Helder Camara”
@@ -939,6 +938,7 @@ c_2023EG2066,UNESCO Chair on Science and Technology for Cultural Heritage
 c_2022MX1527,UNESCO Chair on Science Diplomacy and Scientific Heritage
 c_2021UA1459,UNESCO Chair on Science Education
 c_2022BR1585,UNESCO Chair on Science for Education
+c_2026CN3674,UNESCO Chair on Science for Smart and Innovative Cities
 c_2022NL1544,"UNESCO Chair on Science, Technology and Innovation for Sustainable Development in Latin America"
 c_2024CL2723,UNESCO Chair on Scientific Education for Citizenship
 c_2022NA1534,UNESCO Chair on Secure High-performance Computing for Higher Education and Research
@@ -982,6 +982,7 @@ c_2020AT1411,UNESCO Chair on Sustainable Management of Conservation Areas
 c_2023BW1667,UNESCO Chair on Sustainable Manufacturing and Innovation Technologies
 c_2020CN1400,UNESCO Chair on Sustainable Tourism in UNESCO Designated Sites
 c_2013IT1005,"UNESCO Chair on Sustainable Urban Quality and Urban Culture, notably in Africa"
+c_2026EG3522,UNESCO Chair on Sustainable Urban Regeneration
 c_2022PK1533,UNESCO Chair on Sustainable Urban Regions
 c_2025UA3141,UNESCO Chair on Sustainable Water and Waste Management
 c_2025ID3180,UNESCO Chair on Sustainable Water Ecosystems
@@ -1035,6 +1036,7 @@ c_2026EG3670,UNESCO Chair on Transboundary Water Management and Governance
 c_2016DE1195,UNESCO Chair on Transcultural Music Studies
 c_2022ES1530,"UNESCO Chair on Transformative Education: Science, Communication and Society"
 c_2013IE1010,"UNESCO Chair on Transforming the ‎Lives of Persons with Disabilities through Physical Education Sport, Fitness and ‎Recreation"
+c_2026UG3294,"UNESCO Chair on Trauma therapy, Psychological Support and Social Work"
 c_2019EC1359,UNESCO Chair on Tropical Freshwater Management
 c_2020DE1412,UNESCO Chair on TVET and Competence Development for the Future of Work
 c_2020EG1436,UNESCO Chair on Underwater Cultural Heritage
@@ -1042,7 +1044,6 @@ c_2022DK1562,UNESCO Chair on Urban Resilience
 c_2020BR1408,"UNESCO Chair on Urban Water Quality Management, Recovery and Reuse"
 c_2018FI1255,"UNESCO Chair on Values, Dialogue and Human Rights"
 c_2014BY1081,UNESCO Chair on Vocational Education in the Sphere of Information and Communication Technologies (ICTs) of Persons with Special Needs
-c_2022MX1575,UNESCO Chair on Vulnerability and Social Inclusion
 c_2026OM3587,UNESCO Chair on Waste-to-Fuel Innovations
 c_2025US3185,UNESCO Chair on Water and Climate Change
 c_2015UY1096,UNESCO Chair on Water and Culture
